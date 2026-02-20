@@ -1,0 +1,7 @@
+project_id = "vigmhsdwjstmrsvseywy"
+
+[functions.send-reminders]
+verify_jwt = false
+
+[functions.admin-recovery]
+verify_jwt = false
